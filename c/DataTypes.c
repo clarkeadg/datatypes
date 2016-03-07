@@ -62,13 +62,20 @@ int uppercase(int lc)
 */
 
 int main() {
-  printf("Hello World\n");
+  printf("Data Types\n");
 
-  char myChar = 0;
-  printf("%i",myChar);
-  printf("\n");
+    printf("1. Basic Types\n");
+      printf("(a) integer types\n"); 
+        printf("type: char value:");  
+          char myChar = 0;
+          printf("%i",myChar);
+          printf("\n");
 
-  char myChar2[] = "hi";
-  printf("%s",myChar2);
+    printf("1. Derived types\n");
+      printf("(b) Array\n");
+        char myChar2[] = "hi";
+        printf("%s",myChar2);
+  
+  // done
   printf("\n");
 }
