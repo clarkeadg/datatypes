@@ -71,7 +71,7 @@ int main() {
           printf("%i",myChar);
           printf("\n");
 
-    printf("1. Derived types\n");
+    printf("4. Derived types\n");
       printf("(b) Array\n");
         char myChar2[] = "hi";
         printf("%s",myChar2);
