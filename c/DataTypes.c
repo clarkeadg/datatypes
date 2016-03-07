@@ -1,6 +1,4 @@
 
-#include <stdio.h>
-
 /* Data Types
 
 1. Basic Types
@@ -60,6 +58,8 @@ int uppercase(int lc)
   return uc;
 }
 */
+
+#include <stdio.h>
 
 int main() {
   printf("Data Types\n");
